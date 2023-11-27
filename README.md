@@ -1,4 +1,4 @@
-#YOLOv8 ROS2 Foxy Vehicle Detection
+# YOLOv8 ROS2 Foxy Vehicle Detection
 
 Este repositorio presenta una implementación de YOLOv8 adaptada para su integración con ROS2 Foxy, con el objetivo específico de la detección de vehículos. YOLOv8 (You Only Look Once version 8) es un modelo de detección de objetos en tiempo real conocido por su eficiencia y precisión.
 Características
@@ -9,7 +9,7 @@ Características
 
     Detección de Vehículos: Se especializa en la identificación y localización de vehículos en imágenes o secuencias de video.
 
-##Dependencias
+## Dependencias
 
 Asegúrate de tener instaladas las siguientes dependencias antes de ejecutar el código:
 
@@ -29,6 +29,6 @@ pip install opencv-python cv-bridge
 
 
 Asegúrate de tener ROS2 Foxy instalado y configurado en tu entorno antes de ejecutar el código.
-##Contribuciones
+## Contribuciones
 
 ¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar el sistema, por favor crea un issue o envía una pull request.
